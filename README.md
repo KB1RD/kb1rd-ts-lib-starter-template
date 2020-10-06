@@ -19,6 +19,9 @@ yarn run lint
 # Build for production (and lint)
 yarn run build
 
+# Build jsdoc
+yarn run build:docs
+
 # Test
 yarn run test
 
